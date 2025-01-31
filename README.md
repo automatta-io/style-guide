@@ -1,0 +1,1 @@
+# Automatta Style Guide

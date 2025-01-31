@@ -1,0 +1,6 @@
+{
+  "extends": "./typescript/base",
+  "compilerOptions": {
+    "allowJs": true
+  }
+}
