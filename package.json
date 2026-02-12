@@ -41,7 +41,7 @@
     "typescript-eslint": "^8.22.0"
   },
   "devDependencies": {
-    "@types/node": "^22.12.0",
+    "@types/node": "^25.2.3",
     "eslint": "^10.0.0",
     "prettier": "^3.4.2"
   }
