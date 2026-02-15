@@ -1,7 +1,7 @@
 {
   "name": "@automatta/style-guide",
   "description": "Automatta Style Guide",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Automatta.io <open-source@automatta.io>",
   "license": "MIT",
   "exports": {
